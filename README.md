@@ -22,7 +22,7 @@ void screen_timer_cb(lv_timer_t * t){
 ```c
 int get_bpm_value(){
 
-
+ bpn = ??
 }
 ```
 ## count_array 
