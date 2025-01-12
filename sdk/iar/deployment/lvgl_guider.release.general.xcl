@@ -1,0 +1,17 @@
+%IAR_INSTALL_PATH%\arm\bin\armPROC.dll
+
+ %IAR_INSTALL_PATH%\arm\bin\armJET.dll
+
+ %IAR_SDK_PATH%\release\lvgl_guider.out
+
+ --plugin=%IAR_INSTALL_PATH%\arm\bin\armLibSupportUniversal.dll
+
+ --device_macro=%IAR_INSTALL_PATH%\arm/config/debugger/NXP/MCXN23x.dmac
+
+ --device_macro=%IAR_INSTALL_PATH%\arm/config/debugger/NXP/MCXN23x_Trace.dmac
+
+ --flash_loader=%IAR_INSTALL_PATH%\arm/config/flashloader/NXP/FlashMCXN2.board
+
+ 
+
+

@@ -1,0 +1,1 @@
+GEN_CSRCS += _NXP_logo_alpha_130x75.c
